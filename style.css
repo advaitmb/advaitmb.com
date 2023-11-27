@@ -3,8 +3,8 @@
 */
 
 @font-face {
-  font-family: "Karma";
-  src: url("fonts/satoshi-Variable.ttf") format("truetype");
+  font-family: "Satoshi";
+  src: url("fonts/Satoshi-Variable.ttf") format("truetype");
   font-weight: 1 880;
 }
 
@@ -48,17 +48,17 @@
 }
 
 .strange-light {
-  font-family: "Karma", sans-serif;
+  font-family: "Satoshi", sans-serif;
   font-weight: 300;
 }
 
 .sans {
-  font-family: "Karma", sans-serif;
+  font-family: "Satoshi", sans-serif;
   font-weight: 600;
 }
 
 .sans-light {
-  font-family: "Karma", sans-serif;
+  font-family: "Satoshi", sans-serif;
   font-weight: 300;
 }
 
@@ -136,7 +136,7 @@ strong {
 }
 
 .text {
-  font-family: "Karma", sans-serif;
+  font-family: "Satoshi", sans-serif;
   font-size: 15px;
   line-height: 1.5;
   min-width: 500px;
